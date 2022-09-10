@@ -26,7 +26,14 @@
 > **Big-O notation**
 > 
 >> Big-O (n²)
->
+
+> **Time Complexity**
+>> Average case: O(n²)
+>> 
+>> Worst Case : O(n²)
+>> 
+>> Best Case : O(n)
+
 > **son soru**
 >
 >>18 sayısı **average case** kapsamına girer
